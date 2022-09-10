@@ -1,0 +1,3 @@
+/Users/kpy/CLionProjects/speachTest/cmake-build-debug/CMakeFiles/speachTest.dir
+/Users/kpy/CLionProjects/speachTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kpy/CLionProjects/speachTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
